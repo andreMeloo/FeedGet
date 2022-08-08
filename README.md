@@ -3,7 +3,7 @@
 </h1>
 
 
-![cover](./Capa.png?style=flat)
+![Capa](./Capa.png?style=flat)
 
 
 ## 💻 Projeto
