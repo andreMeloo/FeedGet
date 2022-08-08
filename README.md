@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="FeedGet" height="80" title="FeedGet" src=".github/Feed.png" />
+  <img alt="FeedGet" height="80" title="FeedGet" src="./Feed.png" />
 </h1>
 
 
-![cover](.github/Capa.png?style=flat)
+![cover](./Capa.png?style=flat)
 
 
 ## 💻 Projeto
